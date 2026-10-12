@@ -1,0 +1,6 @@
+{
+  "name": "KeyBay - API & Digital Goods Marketplace",
+  "description": "The open marketplace to buy and sell verified API access keys, developer tools, and digital licenses at discounted rates with secure escrow checkout and real-time market analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
